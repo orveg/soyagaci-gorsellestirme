@@ -9,3 +9,5 @@ Hala da yoğun bir şekilde ziyaretçi almaya devam etmektedir. Fakat elbette ş
 
 
 Bu sebeple çalışan kodu buraya atıyorum. İlgili arkadaşlar inceleyip gönül rahatlıyla kullanabilir.
+
+Kodda sadece Kullanıcı hareketerini inceleyen google analytics event vardır.

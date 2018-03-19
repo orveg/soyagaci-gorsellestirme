@@ -3,7 +3,7 @@
  * Copyright (c) 2018.
  * Perdigital.com (https://www.perdigital.com)
  *
- * @link https://www.perdigital.com
+ * @link   https://www.perdigital.com
  * @author Orhan V. Gülenay(orhan.gulenay@payguru.com)
  *
  *
@@ -53,8 +53,7 @@ if($_POST) {
     $asd = json_encode($c);
 }
 
-function xc($x)
-{
+function xc($x) {
 
     if($x == "Eşi") {
         return array(0,
@@ -534,7 +533,7 @@ function xc($x)
                 <line x1="14.31" y1="16" x2="2.83" y2="16"></line>
                 <line x1="16.62" y1="12" x2="10.88" y2="21.94"></line>
             </svg>
-            <small class="d-block mb-3 text-muted"><a href="https://orveg.com/">orveg.com</a> &copy; 2017-2018</small>
+            <small class="d-block mb-3 text-muted"><a href="https://orveg.com/">orveg.com</a> &copy; 2017-2018 | Bu çalışan kod tamamen açık kaynak kodlu bir yazılımcıktır. Kodları <a href="https://github.com/orveg/soyagaci-gorsellestirme">buradan</a>  inceleyebilirsiniz.</small>
         </div>
 
     </div>
@@ -585,4 +584,3 @@ function xc($x)
 </div>
 </body>
 </html>
-s
