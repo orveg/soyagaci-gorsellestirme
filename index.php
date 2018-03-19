@@ -1,10 +1,10 @@
 <?php
 /**
  * Copyright (c) 2018.
- * Perdigital.com (https://www.perdigital.com)
+ * orveg.com (https://www.orveg.com)
  *
- * @link   https://www.perdigital.com
- * @author Orhan V. Gülenay(orhan.gulenay@payguru.com)
+ * @link   https://soyagaci.orveg.com
+ * @author Orhan V. Gülenay
  *
  *
  *
